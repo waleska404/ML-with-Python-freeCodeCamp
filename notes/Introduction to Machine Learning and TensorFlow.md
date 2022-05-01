@@ -33,7 +33,7 @@ Data is the most important part of ML and AI.
 
 ### Setup
 
-```{.python .numberLines .lineAnchors}
+```python
 pip install tensorflow-gpu
 %tensorflow_version 2.x  # only if you are in a notebook
 import tensorflow as tf  # now import the tensorflow module
@@ -57,7 +57,7 @@ Shape: Represents the dimension of data.
 
 #### Create Tensors
 
-```python=1 ('*.py')
+```python
 #args: value and datatype
 string = tf.Variable("this is a string", tf.string) 
 number = tf.Variable(324, tf.int16)
@@ -68,7 +68,7 @@ floating = tf.Variable(3.567, tf.float64)
 
 Rank/Degree: Number of dimensions involved in the tensor.
 
-```python=1 ('*.py')
+```python
 rank1_tensor = tf.Variable(["Test"], tf.string) 
 rank2_tensor = tf.Variable([["test", "ok"], ["test", "yes"]], tf.string)
 rank = tf.rank(rank2_tensor)
@@ -82,7 +82,7 @@ Shape: Number of elements that exist in each dimension.
 #### Changing Shape
 
 *Example:*
-```python=1 ('*.py')
+```python
 # tf.ones() creates a shape [1,2,3] tensor full of ones
 tensor1 = tf.ones([1,2,3])  
 # reshape existing data to shape [2,3,1]
@@ -102,7 +102,7 @@ The slice operator can be used on tensors to select specific axes or elements.
 
 *Examples:*
 
-```python=1 ('*.py')
+```python
 # Creating a 2D tensor
 matrix = [[1,2,3,4,5],
           [6,7,8,9,10],
