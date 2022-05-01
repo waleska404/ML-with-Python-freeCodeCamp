@@ -2,7 +2,7 @@
 
 ###### tags: `FreeCodeCamp-MLwithPython`
 
-[ToC]
+[Machine Learning Fundamentals](##machine-learning-fundamentals)
 
 ---
 ## Machine Learning Fundamentals
