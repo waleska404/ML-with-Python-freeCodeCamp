@@ -1,7 +1,5 @@
 # Introduction to Machine Learning and TensorFlow
 
-[//]: # (Poner aqui link al pdf)
-
 ###### tags: `FreeCodeCamp-MLwithPython`
 
 [ToC]
@@ -35,7 +33,7 @@ Data is the most important part of ML and AI.
 
 ### Setup
 
-```python
+```{.python .numberLines .lineAnchors}
 pip install tensorflow-gpu
 %tensorflow_version 2.x  # only if you are in a notebook
 import tensorflow as tf  # now import the tensorflow module
