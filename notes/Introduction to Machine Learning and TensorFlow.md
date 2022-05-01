@@ -2,8 +2,13 @@
 
 ###### tags: `FreeCodeCamp-MLwithPython`
 
-[Machine Learning Fundamentals](##machine-learning-fundamentals)
-
+* [Machine Learning Fundamentals](##machine-learning-fundamentals)
+    * [AI vs Neural Networks vs Machine Learning](###ai-vs-neural-networks-vs-machine-learning)
+    * [Data](###data)
+* [Introduction to TensorFlow](##introduction-to-tensor-flow)
+    * [Setup](###setup)
+    * [Tensors](###tensors)   
+* [Sources](##sources)
 ---
 ## Machine Learning Fundamentals
 
