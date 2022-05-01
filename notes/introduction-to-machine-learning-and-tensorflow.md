@@ -8,7 +8,7 @@
 * [Introduction to TensorFlow](##introduction-to-tensor-flow)
     * [Setup](###setup)
     * [Tensors](###tensors)   
-* [Sources](##sources)
+* [Sources](##sources)<br>
 ---
 ## Machine Learning Fundamentals
 
