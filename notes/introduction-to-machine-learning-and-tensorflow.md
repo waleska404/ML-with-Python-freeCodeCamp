@@ -14,7 +14,7 @@
 
 ### AI vs Neural Networks vs Machine Learning
 
-![](https://i.imgur.com/4p0Kf1Q.png)
+![](./../images/IA-split.png)
 
 
 * **AI**: The effort to automate intellectual tasks normally performed by humans.
