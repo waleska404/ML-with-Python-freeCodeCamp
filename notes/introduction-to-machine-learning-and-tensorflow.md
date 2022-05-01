@@ -47,9 +47,7 @@ print(tf.version)  # make sure the version is 2.x
 
 ### Tensors
 
-:::info
 "A tensor is a generalization of vectors and matrices to potentially higher dimensions. Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes."    (https://www.tensorflow.org/guide/tensor)
-:::
 
 
 They are the main objects that are passed around and manipulated throughout the program. Each tensor represents a partially defined computation that will eventually produce a value.
