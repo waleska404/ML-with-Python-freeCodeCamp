@@ -35,7 +35,7 @@ Data is the most important part of ML and AI.
 
 ### Setup
 
-```python=1 ('*.py')
+```python
 pip install tensorflow-gpu
 %tensorflow_version 2.x  # only if you are in a notebook
 import tensorflow as tf  # now import the tensorflow module
