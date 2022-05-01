@@ -5,7 +5,7 @@
 * [Machine Learning Fundamentals](#machine-learning-fundamentals)
     * [AI vs Neural Networks vs Machine Learning](#ai-vs-neural-networks-vs-machine-learning)
     * [Data](#data)
-* [Introduction to TensorFlow](#introduction-to-tensor-flow)
+* [Introduction to TensorFlow](#introduction-to-tensorflow)
     * [Setup](#setup)
     * [Tensors](#tensors)   
 * [Sources](#sources)<br>
