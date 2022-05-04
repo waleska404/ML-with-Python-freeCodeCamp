@@ -1,8 +1,6 @@
-# 3. Neural Networks with TensorFlow
+# Neural Networks with TensorFlow
 
 ###### tags: `FreeCodeCamp-MLwithPython`
-
----
 
 * [Keras](#keras)
 * [What is a Neural Network](#what-is-a-neural-network)
@@ -15,9 +13,9 @@
     * [Biases](#biases)
     * [Activation Function](#activation-function)
     * [Backpropagation](#backpropagation)
-    * [Loss/Cost Function](#loss/cost-function)
+    * [Loss Function](#loss-function)
     * [Gradient Descent](#gradient-descent)
-    * [Optimizer](#optimizaer)
+    * [Optimizer](#optimizer)
 * [Sources](#sources)
 
 ---
@@ -107,17 +105,20 @@ Activation functions are simply a function that is applied to the weighed sum of
 
 Some common activation functions:
 * **Relu (Rectified Linear Unit)**
+
 ![](./images/module3/activation1.png)
 * **Tanh (Hyperbolic Tangent)**
+
 ![](./images/module3/activation2.png)
 * **Sigmoid**
+
 ![](./images/module3/activation3.png)
 
 ### Backpropagation
 
 Backpropagation is the fundemental algorithm behind training neural networks. It is what changes the weights and biases of our network. To fully explain this process, we need to start by discussing something called a cost/loss function.
 
-### Loss/Cost Function
+### Loss Function
 
 As we now know our neural network feeds information through the layers until it eventually reaches an output layer. This layer contains the results that we look at to determine the prediciton from our network. In the training phase it is likely that our network will make many mistakes and poor predicitions. In fact, at the start of training our network doesn't know anything (it has random weights and biases)!
 
