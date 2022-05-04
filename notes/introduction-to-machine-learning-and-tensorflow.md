@@ -14,13 +14,13 @@
 
 ### AI vs Neural Networks vs Machine Learning
 
-![](./../images/IA-split.png)
+![](./images/module1/IA-split.png)
 
 
 * **AI**: The effort to automate intellectual tasks normally performed by humans.
     1950 -> Can computers think? AI were just a set of rules. AI can be simple or complex.
 * **ML**: Takes data, takes what the output should be, and figures out the rules for us. So when we look at new data, we can hace the best possible output for that. That's why a lot of the times ML models do not have 100% accuracy. 
-![](./../images/classic-ml.png)
+![](./images/module1/classic-ml.png)
 * **NN** or **Deep Learning**: form of ML that uses a layered representation of data. They are not modeled after the brain.
 
 
