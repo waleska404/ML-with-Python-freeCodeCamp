@@ -1,9 +1,9 @@
-# ML-with-Python-freeCodeCamp
-📈 Notes and projects of the Machine Learning with Python course from freeCodeCamp. 
+# 👩‍💻 ML-with-Python-freeCodeCamp
+Notes and projects of the Machine Learning with Python course from freeCodeCamp. 
 
-## Notes
+## 📝 Notes
 
-### [Module 1: Introduction to Machine Learning and TensorFlow](./notes/introduction-to-machine-learning-and-tensorflow.md)
+### [🚀 Module 1: Introduction to Machine Learning and TensorFlow](./notes/introduction-to-machine-learning-and-tensorflow.md)
 * [Machine Learning Fundamentals](./notes/introduction-to-machine-learning-and-tensorflow.md/#machine-learning-fundamentals)
     * [AI vs Neural Networks vs Machine Learning](./notes/introduction-to-machine-learning-and-tensorflow.md#ai-vs-neural-networks-vs-machine-learning)
     * [Data](./notes/introduction-to-machine-learning-and-tensorflow.md#data)
@@ -12,7 +12,7 @@
     * [Tensors](./notes/introduction-to-machine-learning-and-tensorflow.md#tensors)   
 * [Sources](./notes/introduction-to-machine-learning-and-tensorflow.md#sources)
 
-### [Module 2: Core Learning Algorithms](./notes/core-learning-algorithms.md)
+### [🔥 Module 2: Core Learning Algorithms](./notes/core-learning-algorithms.md)
 * [Linear Regression](./notes/core-learning-algorithms.md/#linear-regression)
     * [Training and Testing Data](./notes/core-learning-algorithms.md/#training-and-testing-data)
     * [The Training Proces](./notes/core-learning-algorithms.md/#the-training-process)
@@ -22,7 +22,7 @@
 * [Hidden Markov Models](./notes/core-learning-algorithms.md/#hidden-markov-models)
 * [Sources](./notes/core-learning-algorithms.md/#sources)
 
-### [Module 3: Neural Networks](./notes/neural-networks.md)
+### [🧠 Module 3: Neural Networks](./notes/neural-networks.md)
 * [Keras](./notes/neural-networks.md#keras)
 * [What is a Neural Network](./notes/neural-networks.md#what-is-a-neural-network)
 * [How it Works](./notes/neural-networks.md#how-it-works)
@@ -39,7 +39,7 @@
     * [Optimizer](./notes/neural-networks.md#optimizer)
 * [Sources](./notes/neural-networks.md#sources)
 
-### [Module 4: Convolutional Neural Networks](./notes/convolutional.md)
+### [👁 Module 4: Convolutional Neural Networks](./notes/convolutional.md)
 * [Deep Computer Vision](./notes/convolutional.md#deep-computer-vision)
     * [Image Data](./notes/convolutional.md#image-data)
 * [Convolutional Neural Network](./notes/convolutional.md#convolutional-neural-network)
@@ -55,7 +55,7 @@
 * [Object Detection](./notes/convolutional.md#object-detection)
 * [Sources](./notes/convolutional.md#sources)
 
-### [Module 5: Natural Language Processing With RNNs](./notes/NLP.md)
+### [👅 Module 5: Natural Language Processing With RNNs](./notes/NLP.md)
 * [Sequence Data](./notes/NLP.md#sequence-data)
     * [Ecoding Text](./notes/NLP.md#encoding-text)
     * [Bag of Words](./notes/NLP.md#bag-of-words)
@@ -66,8 +66,8 @@
 * [Sentiment Analysis](./notes/NLP.md#sentiment-analysis)
 * [Sources](./notes/NLP.md#sources)
 
-### [Module 6: Reinforcement Learning](./notes/reinforcement.md)
-* [Terminology](#terminology)
+### [🦾 Module 6: Reinforcement Learning](./notes/reinforcement.md)
+* [Terminology](./notes/reinforcement.md#terminology)
     * [Environment](./notes/reinforcement.md#environment)
     * [Agent](./notes/reinforcement.md#agent)
     * [State](./notes/reinforcement.md#state)
