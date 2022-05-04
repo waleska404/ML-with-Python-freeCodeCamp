@@ -34,7 +34,7 @@ So far, we have dealt with pretty straight forward data that has 1 or 2 dimensio
 * image width
 * color channels
 
-![](https://i.imgur.com/g6o2Wub.png)
+![](./images/module4/color-channels.png)
 
 ---
 ## Convolutional Neural Network
@@ -50,11 +50,11 @@ The fundemental difference between a dense layer and a convolutional layer is th
 
 **Convolutional Layer**: The convolutional layer will look at specific parts of the image. In this example let's say it analyzes the highlighted parts below and detects patterns there. 
 
-![](https://i.imgur.com/xwnDm5k.jpg)
+![](./images/module4/cat.png)
 
 ### Convolutional Layer
 
-![](https://i.imgur.com/sWBF1yS.png)
+![](./images/module4/conv1.png)
 
 What we want essentially is our convolutional layer, to give us some output meaningful about the image.
 
@@ -70,7 +70,7 @@ Each convolutional layer has a few properties to it:
 
 We have filters and they’ll start completely random, but they’ll change as we go on.
 
-![](https://i.imgur.com/F5Awthe.png)
+![](./images/module4/conv2.png)
 
 In this example is the sample size is 3x3: The sample is going to look three by three spots in our image and look at the pixels, trying to find how closely this filters match with the pixels we are looking at on each sample.
 
@@ -78,12 +78,11 @@ So this convulotional layer is going to output us what we call a feature map tha
 
 In this case: for two filters we need two features maps -> **depth two feature map**.
 
-![](https://i.imgur.com/n4TYJ0b.png)
+![](./images/module4/conv3.png)
 
 The way we look at the filters is doing the dot product between the yellow square and a filter. We keep with this process till the end:
 
-![](https://i.imgur.com/lUQGHhu.png)
-
+![](./images/module4/conv4.png)
 
 
 ### Multiple Convolutional Layers
@@ -106,7 +105,7 @@ A filter is a m x n pattern of pixels that we are looking for in an image. The n
 
 Here's a great illustration from the book "Deep Learning with Python" by Francois Chollet (pg 124). 
 
-![](https://i.imgur.com/CD3vlXi.png)
+![](./images/module4/filter.PNG)
 
 
 
@@ -122,7 +121,7 @@ Our layers work by sliding these filters of n x m pixels over every possible pos
 If we slide a filter of let's say size 3x3 over our image well consider less positions for our filter than pixels in our input. Look at the example below.
 
 Image from "Deep Learning with Python" by Francois Chollet (pg 126).
-![](https://i.imgur.com/CosEkm2.png)
+![](./images/module4/pad.PNG)
 
 This means our response map will have a slightly smaller width and height than our original image. This is fine but sometimes we want our response map to have the same dimensions. We can accomplish this by using something called padding.
 
@@ -161,9 +160,8 @@ In other words: essentially pooling operation is just taking specific values fro
 
 So once we generate this output feature map, what we do to reduce its dimensionality and just make it a little bit easier to work with.
 
-![](https://i.imgur.com/ooTZIQp.png)
-![](https://i.imgur.com/USgR7ff.png)
-
+![](./images/module4/pooling1.png)
+![](./images/module4/pooling2.png)
 
 ---
 
