@@ -1,19 +1,21 @@
-# 6. Reinforcement Learning
-
-[ToC]
+# Reinforcement Learning
 
 ###### tags: `FreeCodeCamp-MLwithPython`
 
 
-* [Sequence Data](#sequence-data)
-    * [Ecoding Text](#encoding-text)
-    * [Bag of Words](#bag-of-words)
-    * [Integer Encoding](#integer-encoding)
-    * [Word Embeddings](#word-embeddings)
-* [Recurrent Neural Networks (RNN's)](#recurrent-neural-networks)
-    * [LSTM](#lstm)
-* [Sentiment Analysis](#layer-parameters)
+* [Terminology](#terminology)
+    * [Environment](#environment)
+    * [Agent](#agent)
+    * [State](#state)
+    * [Action](#action)
+    * [Reward](#reward)
+* [Q-Learning](#q-learning)
+    * [Learning the Q-Table](#learning-the-q-table)
+    * [Updating Q-Values](#updating-q-values)
+    * [Learning Rate α](#learning-rate-α)
+    * [Discount Factor γ](#discount-factor-γ)
 * [Sources](#sources)
+
 
 ---
 
