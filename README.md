@@ -13,3 +13,4 @@ Notes and projects of the Machine Learning with Python course from freeCodeCamp.
 
 ## 👾 Projects
 [**Project 1**: Mean, Variance and Standard Deviation](./projects/mean-var-std)
+[**Project 2**: Cat and Dog Image Classifier](./projects/cat-or-dog)
