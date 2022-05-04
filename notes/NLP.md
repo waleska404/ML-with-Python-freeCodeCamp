@@ -1,4 +1,4 @@
-# 5. Natural Language Processing With RNNs
+# Natural Language Processing With RNNs
 
 ###### tags: `FreeCodeCamp-MLwithPython`
 
@@ -10,7 +10,7 @@
     * [Word Embeddings](#word-embeddings)
 * [Recurrent Neural Networks (RNN's)](#recurrent-neural-networks)
     * [LSTM](#lstm)
-* [Sentiment Analysis](#layer-parameters)
+* [Sentiment Analysis](#sentiment-analysis)
 * [Sources](#sources)
 
 ---
