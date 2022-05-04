@@ -20,13 +20,13 @@ It follows a simple concept: If data points are related linearly, we can generat
 
 An example of data set:
 
-![](https://i.imgur.com/I19exJ1.png)
+![](./images/module2/1.png)
 
 "Line of best fit refers to a line through a scatter plot of data points that best expresses the relationship between those points." (https://www.investopedia.com/terms/l/line-of-best-fit.asp)
 
 A line of best fot for this graph:
 
-![](https://i.imgur.com/ZdV8wCC.png)
+![](./images/module2/2.png)
 
 Once we've generated this line for our dataset, we can use its equation to predict future values. We just pass the features of the data point we would like to predict into the equation of the line and use the output as our prediction.
 
