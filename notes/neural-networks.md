@@ -1,8 +1,6 @@
-# 3. Neural Networks with TensorFlow
+# Neural Networks with TensorFlow
 
 ###### tags: `FreeCodeCamp-MLwithPython`
-
----
 
 * [Keras](#keras)
 * [What is a Neural Network](#what-is-a-neural-network)
