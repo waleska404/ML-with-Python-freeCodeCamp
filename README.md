@@ -1,4 +1,4 @@
-# 👩‍💻 ML-with-Python-freeCodeCamp
+# 👩‍💻 Machine Learning with Python (freeCodeCamp course)
 Notes and projects of the Machine Learning with Python course from freeCodeCamp. (https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 ## 📝 Notes
