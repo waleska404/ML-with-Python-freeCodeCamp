@@ -3,7 +3,7 @@ Notes of the Machine Learning with Python course from freeCodeCamp. (https://www
 
 ## 📝 Notes
 
-[**Module 1**: Introduction to Machine Learning and TensorFlow](./notes/introduction-to-machine-learning-and-tensorflow.md)  
+[**Module 1**: Introduction to Machine Learning and TensorFlow](https://github.com/waleska404/ML-with-Python-freeCodeCamp/blob/main/notes/introduction-to-machine-learning-and-tensorflow.md)  
 [**Module 2**: Core Learning Algorithms](./notes/core-learning-algorithms.md)  
 [**Module 3**: Neural Networks](./notes/neural-networks.md)  
 [**Module 4**: Convolutional Neural Networks](./notes/convolutional.md)  
