@@ -65,7 +65,7 @@ At each convolutional layer, we look for many different filters (the number we a
 
 Each convolutional layer has a few properties to it:
 * **Input Size**.
-* Hhow many **filters** are we going to have.
+* How many **filters** are we going to have.
 * Whats the **sample size** of our filters (sample size is how big the filters will be).
 
 We have filters and they’ll start completely random, but they’ll change as we go on.
